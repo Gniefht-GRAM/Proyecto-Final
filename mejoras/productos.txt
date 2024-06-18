@@ -1,0 +1,2 @@
+1 Camiseta Básica Descripción1 M Rojo 10.0 100 Proveedor1
+2 Pantalón Jeans Descripción2 L Azul 20.0 50 Proveedor2
